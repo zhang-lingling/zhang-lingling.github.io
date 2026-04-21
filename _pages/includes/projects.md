@@ -1,5 +1,9 @@
 # 💬 Projects
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+- 科技部重点研发计划课题，跨媒体教学资源的智能聚合与精准导学研究，2022YFC3303603，2022.10~2025.09，256万，主持。
+- 国家自然科学基金面上项目，大模型与符号融合的可解释几何问题求解方法研究，62477036，2025.01~2028.12，65万，主持。
+- 国家自然科学基金青年项目，教科书问答中的小样本推理方法研究，62106190，2022.01~2021.12，30万，主持。
+- 国家自然科学基金重大项目子课题，智能教学策略设计与调节机制，62293554HZ，2023.01~2027.12，72万，主持。
+- 北京联想横向课题，大模型+检索增强的教学问答推理系统，2025.04~2026.03，300万，主持。
+- 人民网横向课题，符号-神经融合的几何问题求解方法研究，2024.06~2025.05，100万，主持。
+- 中国移动横向课题，数据目录自动产生及分析机制研究，2023.11~2024.10，100万，主持。
+- CCF联想蓝海基金，面向中小学教育的教科书智能问答研究，2022.07~2023.06，30万，主持。
