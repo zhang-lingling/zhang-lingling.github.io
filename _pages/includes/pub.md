@@ -2,12 +2,43 @@
 # 📝 Publications 
 ## Featured Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/tpami-lfsrm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+**Lingling Zhang**, Wenjun Wu, Jun Liu, Xiaojun Chang, Xin Hu, Xuan Luo, Yaqiang Wu, Qinghua Zheng, [LFSRM: Few-Shot Diagram-Sentence Matching via Local-Feedback Self-Regulating Memory](https://ieeexplore.ieee.org/document/10840293/), IEEE TPAMI 2025.（CCF A，第一作者）
 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/tpami-tdgi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lingling Zhang**, Yujie Zhong, Qinghua Zheng, Jun Liu, Qianying Wang, Jiaxin Wang, Xiaojun Chang. [TDGI: Translation-Guided Double-Graph Inference for Document-Level Relation Extraction](https://ieeexplore.ieee.org/document/10836885/). IEEE TPAMI 2024.（CCF A，第一作者）
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/tpami-zstad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lingling Zhang**, Xiaojun Chang, Jun Liu, Minnan Luo, Zhihui Li, Lina Yao, and Alex Hauptmann. [TN-ZSTAD: Transferable Network for Zero-Shot Temporal Activity Detection](https://ieeexplore.ieee.org/document/9797852/). IEEE TPAMI 2022.（CCF A，第一作者）
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/tkde-fpromt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lingling Zhang**, Yifei Li*, Qianying Wang, Yun Wang, Hang Yan, Jiaxin Wang, and Jun Liu. [FPrompt-PLM: Flexible-Prompt on Pretrained Language Model for Continual Few-Shot Relation Extraction](https://ieeexplore.ieee.org/document/10584140/). IEEE TKDE, 2024.（CCF A，第一作者）
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022</div><img src='images/tpami-mulgrm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lingling Zhang**, Shaowei Wang, Jun Liu*, Xiaojun Chang, Qika Lin, Yaqiang Wu, and Qinghua Zheng. [MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification](https://ieeexplore.ieee.org/document/9779997/). IEEE TKDE, 2022.（CCF A，第一作者）
 
 </div>
 </div>
