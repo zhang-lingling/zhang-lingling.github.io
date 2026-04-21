@@ -1,10 +1,32 @@
 # 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* ByteDance Scholars Program (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%)
+
+* *2025* 人工智能学会吴文俊科技进步二等奖，神经-符号协同的抽象图文推理技术及应用，完成人：**张玲玲**、武亚强、刘欢、魏笔凡、田锋、王茜莺、刘均、董怡翔、王璐妍、李睿、李辉、张未展、董博、闫彩霞、朱春强
+
+* *2025*  陕西省高等教育教学成果二等奖，立机制创平台建模式首创师机生混合增强智能赋能新工科人才培养新体系，完成人：田锋、 **张玲玲**、 周丽涛、 陈妍、 戴傲
+
+* *2025* 秦创原青年科技人才
+
+* *2025* 陕西高校优秀青年人才支持计划
+
+* *2025* 中国工程院第一期青年智库学者沙龙一等奖
+
+* *2024* 中国自动化学会高等教育教学成果二等奖，强产教融合，强项目驱动，强科教融汇，打造三强实践育人新模式，完成人：**张玲玲**、田锋、景洲、锁志海、徐墨、洪丹丹
+
+* *2024* 西安自动化学会青年人才托举
+
+* *2024* 第九届中国国际"互联网+"大学生创新创业大赛银奖，《慧测济康一AI病理辅助诊断引领者》，指导教师:李辰、刘均、龚铁梁、**张玲玲**、高泽宇等
+
+* *2023* CCF-科技进步一等奖，数实融合精准导学关键技术与应用，完成人：王茜莺、田锋、武亚强、**张玲玲**、王璐妍、张晓平
+
+* *2023* 西安交通大学优秀研究生导师团队
+
+* *2022* 第八届中国国际"互联网+"大学生创新创业大赛金奖，《知识森林智慧教育的知识引擎》，指导老师：刘均、郑庆华、田锋、**张玲玲**、马杰、王小华等
+
+* *2022* 西安交通大学优秀博士学位论文
+
+* *2021* 全国知识图谱与语义计算大会CCKS最佳论文资源奖
+
+* *2020* 西安交通大学优秀博士毕业生
+
+* *2020* 徐宗本应用数学论文奖
+
