@@ -29,3 +29,20 @@
 - Jin Wei, Yaqiang Wu, Jiayi Yan, Zeng Li, Zhen Xu, Yu Zhou, **Lingling Zhang**, QianYing Wang. ST-SAM: Multimodal Scene Text Segmentation with Dense Visual and Sparse Textual Prompts via SAM. AAAI 2026.
 - Wenjun Wu, **Lingling Zhang***, Bo Zhao, Bo Li, Xinyu Zhang, Yaqiang Wu. Encode Geometric Diagram as Geo-Graph in Geometry Problem Solving. AAAI 2026.（CCF A，唯一通讯）
 - Xinyu Zhang, **Lingling Zhang***, Yanrui Wu, Shaowei Wang, Wenjun Wu, Muye Huang, Qianying Wang* and Jun Liu. Memory-Enriched Thought-by-Thought Framework for Complex Diagram Question Answering. CVIU 2026.（共同通讯）
+
+## 2025 Published or Accepted Papers
+- Xinyu Zhang, Yuxuan Dong, **Lingling Zhang***, Chengyou Jia, Zhuohang Dang, Basura Fernando, Jun Liu, Mike Zheng Shou*. CoFFT: Chain of Foresight-Focus Thought for Visual Language Models. NeurIPS 2025.（CCF A，共同通讯）
+- Muye Huang, **Lingling Zhang***, Jie Ma, Han Lai, Fangzhi Xu, Yifei Li, Wenjun Wu, Yaqiang Wu*, Jun Liu. ChartSketcher: Reasoning with Multimodal Feedback and Reflection for Chart Understanding. NeurIPS 2025.（CCF A，共同通讯）
+- Wenjun Wu, **Lingling Zhang***, Bo Zhao, Muye Huang, QianYing Wang, Jun Liu. Causal-R: A Causal-Reasoning Geometry Problem Solver for Optimized Solution Exploration. NeurIPS 2025.（CCF A，唯一通讯）
+- Xinyu Zhang, **Lingling Zhang***, Yanrui Wu, Muye Huang, Wenjun Wu, Bo Li, Shaowei Wang, Basura Fernando, Jun Liu. Diagram-driven course questions generation. EMNLP 2025.（唯一通讯）
+- Xinyu Zhang, **Lingling Zhang***, Yanrui Wu, Muye Huang, Jun Liu. Cognitive Predictive Coding Network: Rethinking the Generalization in Raven's Progressive Matrices. ACM MM 2025.（CCF A，唯一通讯）
+- Xinyu Zhang, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, Chengyou Jia, Basura Fernando, Mike Zheng Shou, **Lingling Zhang***, Jun Liu. PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning. ACL 2025.（CCF A，唯一通讯）
+- Yifei Li, **Lingling Zhang***, Hang Yan, Tianzhe Zhao, Zihan Ma, Muye Huang, Jun Liu. SAGE: Scale-Aware Gradual Evolution for Continual Knowledge Graph Embedding. KDD 2025.（CCF A，唯一通讯）
+- Yaxian Wang, Bifan Wei, Jun Liu, **Lingling Zhang**, Shuting He, Jun Li and Qika Lin. GlFoMR: A Glance-then-Focus Multimodal Reasoning Framework for Diagram Question Answering. SIGIR 2025.
+- Bo Li, **Lingling Zhang***, Tingting Bao, Yunkuo Lei, Xiaoqing Zhang, Jun Liu. When Multi-focus Image Fusion Meets Nonlinear Spiking Neural P Systems. TMM 2025.（唯一通讯）
+- Wenjun Wu, **Lingling Zhang***, Jun Liu, Ming Ren, Xin Hu, Jiaxin Wang and Qianying Wang. Hierarchy-Based Diagram-Sentence Matching on Dual-Modal Graphs. PR 2025.（唯一通讯）
+- **Lingling Zhang**, Wenjun Wu, Jun Liu, Xiaojun Chang, Xin Hu, Xuan Luo, Yaqiang Wu, Qinghua Zheng. LFSRM: Few-Shot Diagram-Sentence Matching via Local-Feedback Self-Regulating Memory. IEEE TPAMI 2025.（CCF A，第一作者）
+- Muye Huang, Han Lai, Xinyu Zhang, Wenjun Wu, Jie Ma, **Lingling Zhang**, Jun Liu. EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding. AAAI 2025.
+- Muye Huang, **Lingling Zhang***, Han Lai, Wenjun Wu, Xinyu Zhang, Jun Liu. VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning. AAAI 2025.（CCF A，唯一通讯）
+
+## 2024 Published or Accepted Papers
