@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
+title                    : "Lingling Zhang (张玲玲)"
 description              : "Research scientist in Sea AI Lab. Graduating from Zhejiang University. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+repository               : "zhang-lingling/zhang-lingling.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,8 +21,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
+  name             : "Lingling Zhang (张玲玲)"
+  avatar           : "images/zll-profile.jpg"
   bio              : "Sea AI Lab"
   location         : "Singapore"
   employer         :
