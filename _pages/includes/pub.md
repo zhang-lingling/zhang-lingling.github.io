@@ -13,4 +13,4 @@
 </div>
 
 ## 2026 Published or Accepted Papers
-- Yifei Li#, Weidong Guo#, **Lingling Zhang}**, Rongman Xu, Muye Huang, Hui Liu, Lijiao Xu, Yu Xu, Jun Liu. Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents. ACL 2026.（CCF A，唯一通讯）
+- Yifei Li#, Weidong Guo#, **Lingling Zhang**, Rongman Xu, Muye Huang, Hui Liu, Lijiao Xu, Yu Xu, Jun Liu. Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents. ACL 2026.（CCF A，唯一通讯）
