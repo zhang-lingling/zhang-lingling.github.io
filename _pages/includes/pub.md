@@ -35,7 +35,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022</div><img src='images/tpami-mulgrn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2022</div><img src='images/tkde-mulgrn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lingling Zhang**, Shaowei Wang, Jun Liu*, Xiaojun Chang, Qika Lin, Yaqiang Wu, and Qinghua Zheng. [MuL-GRN: Multi-Level Graph Relation Network for Few-Shot Node Classification](https://ieeexplore.ieee.org/document/9779997/). IEEE TKDE, 2022.（CCF A，第一作者）
