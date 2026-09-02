@@ -44,6 +44,11 @@
 </div>
 
 ## 📚 2026 Published or Accepted Papers
+- Tingting Bao, Bifan Wei, Bo Li, **Lingling Zhang***, Hong Peng, Xiaoqing Zhang, Jun Liu. Spiking Neural P Systems Incorporating Winner-take-all Mechanism. Information and Computation, 2026. （CCF A，共同通讯）
+- Yushun Zhang, Weiping Fu*, Zesheng Yang, Bo Zhao, **Lingling Zhang**, Jian Zhang, Yumeng Fu, Jiaxing Huang, Jun Liu. GeoChallenge-90K: A Multi-Answer Multiple-Choice Benchmark for Diagram-Grounded Geometric Reasoning. EMNLP 2026.
+- Yanrui Wu, **Lingling Zhang***, Xinyu Zhang, Jiayu Chang, Pengyu Li, Xu Jiang, Jingtao Hu, Jun Liu. LogicGraph: Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification. EMNLP 2026.（唯一通讯）
+- Yifei Li, **Lingling Zhang***, Muye Huang, Zihan Ma, Jun Liu, Jiashuai Liu. From Rollouts to Recipes: Self-Contained Post-Training for LLMs. EMNLP 2026.（唯一通讯）
+- 张新宇, 吴艳瑞, **张玲玲***, 董宇轩, 杨泽晟, 武亚强, 郑庆华. 面向示意图问答的前瞻性多视角视觉推理框架. 自动化学报, 2026.（CCF A，唯一通讯）
 - Yifei Li#, Weidong Guo#, **Lingling Zhang***, Rongman Xu, Muye Huang, Hui Liu, Lijiao Xu, Yu Xu, Jun Liu. Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents. ACL 2026.（CCF A，唯一通讯）
 - Yumeng Fu, Jiayin Zhu, **Lingling Zhang***, Wenjun Wu*, Bo Zhao, Shaoxuan Ma, Yushun Zhang, Jun Liu. GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines. ACL 2026.（CCF A，共同通讯）
 - Xinyu Zhang, Yuchen Wan, Boxuan Zhang, Zesheng Yang, **Lingling Zhang***, Bifan Wei, Jun Liu. Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization Problem Solving. ACL 2026.（CCF A，唯一通讯）
